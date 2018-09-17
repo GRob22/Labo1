@@ -15,7 +15,7 @@ public class BonjourNom {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World2!");
         System.out.println("Bonjour John Doe!");
         if(args.length == 2){
             String prenom = args[0];
